@@ -1,0 +1,4 @@
+nombre,e_mail,nota_de_1_a_7,start_time,completion_time,delta_time,last_modified_time,porcentaje_de_acierto_absoluto,porcentaje_de_acierto_parcial,porcentaje_de_acierto_entre_las_respondidas,respuestas_correctas,respuestas_respondidas,respuestas_omitidas
+todas_las_respuestas,todas_las_respuestas@test.cl,1,2024-07-08T15:54:44Z,2024-07-08T15:55:27Z,0.716666666666667,,0,0.509259259259259,0,0,27,0
+pauta,pauta@test.cl,7,2024-07-08T15:57:16Z,2024-07-08T16:02:53Z,5.61666667064031,,1,1,1,27,27,0
+Andrés Bravo,andres.bravo@entel.pe,3,2024-07-08T16:22:07Z,2024-07-08T17:10:51Z,48.733333337307,,0.333333333333333,0.796296296296296,0.333333333333333,9,27,0
